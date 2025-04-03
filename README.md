@@ -8,9 +8,8 @@ Welcome to my GitHub! I'm a passionate developer and tech enthusiast with a love
 - 🎓 **Education**: B.Tech 1st Year
 - 🌍 **Location**: Dehradun, India
 - 📧 **Contact**: [dhruvrwt12@gmail.com](mailto:dhruvrwt12@gmail.com)
-- 💻 **GitHub Profiles**:  
+- 💻 **GitHub Profile**:  
   - [**itsdhruvrawat**](https://github.com/itsdhruvrawat) – Primary account for my projects and contributions.  
-  - [**bunnyhawper**](https://github.com/bunnyhawper) – My secondary account, focused on experimental and side projects.
 
 ## 🚀 Skills
 
@@ -23,7 +22,7 @@ Welcome to my GitHub! I'm a passionate developer and tech enthusiast with a love
 
 ## 🛠️ Tools & Technologies
 
-- **Languages**: JavaScript, Python, Dart, PHP
+- **Languages**: JavaScript, Python, Dart, PHP, Rust
 - **Frameworks**: React, Node.js, Express.js, Next.js, Flutter
 - **Databases**: MongoDB, MySQL
 - **Dev Tools**: Git, Docker, Nginx, Postman
